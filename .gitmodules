@@ -4,5 +4,7 @@
 	branch = master
 [submodule "Flathub"]
 	path = Flathub
-	url = https://github.com/abhyanshac/io.github.abhyanshac.smartcamera.omsjsr
+	url = https://github.com/abhyanshac/io.github.abhyanshac.smartcamera_omsjsr
+	branch = master
+[submodule "io.github.smartcamera"]
 	branch = master
