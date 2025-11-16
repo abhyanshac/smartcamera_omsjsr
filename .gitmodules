@@ -1,0 +1,8 @@
+[submodule "Smart-Camera"]
+	path = Smart-Camera
+	url = https://github.com/abhyanshac/smart-camera
+	branch = master
+[submodule "Flathub"]
+	path = Flathub
+	url = https://github.com/abhyanshac/io.github.abhyanshac.smartcamera.omsjsr
+	branch = master
