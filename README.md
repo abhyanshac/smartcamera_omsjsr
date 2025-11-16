@@ -1,2 +1,2 @@
-# smartcamera.omsjsr
+# Smart Camera
 Home Repo of Smart Camera
